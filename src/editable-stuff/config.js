@@ -122,6 +122,11 @@ const experiences = {
   heading: "Experience",
   data: [
     {
+      role: 'Backend Engineer',
+      companylogo: require('../assets/img/sakmo.png'),
+      date: 'January 2024 - Present',
+    },
+    {
       role: 'SEO Specialist',// Here Add Company Name
       companylogo: require('../assets/img/masterclean.png'),
       date: 'August 2024 – November 2024',
