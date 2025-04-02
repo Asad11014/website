@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Asad Rizvi. I’m a graduate from the University of Birmingham, class of 2024. I'm most passionate about building useful tools, and my goal is to pursue this passion within the field of software engineering. I love learning about new software and getting creative with their capabilities. In my free time I watch the football or browse github for cool looking repos.",
-  resume: require("../editable-stuff/resume2025.pdf"),
+  resume: require("../editable-stuff/resume(2-4-2025).pdf"),
 };
 
 // PROJECTS SECTION
@@ -88,13 +88,13 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 75 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "Java", value: 80 },
-    { name: "JavaScript", value: 75 },
+    { name: "SQL", value: 60 },
+    { name: "Data Structures", value: 80 },
+    { name: "Java", value: 65 },
+    { name: "JavaScript", value: 80 },
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 55 },
-    { name: "Spring Boot", value: 80 },
+    { name: "Spring Boot", value: 60 },
   ],
   softSkills: [
     { name: "Resilience", value: 80 },
@@ -122,9 +122,14 @@ const experiences = {
   heading: "Experience",
   data: [
     {
+      role: 'Software Engineer',
+      companylogo: require('../assets/img/xPercept.png'),
+      date: 'December 2024 - Present',
+    },
+    {
       role: 'Backend Engineer',
       companylogo: require('../assets/img/sakmo.png'),
-      date: 'January 2024 - Present',
+      date: 'December 2024 - Present',
     },
     {
       role: 'SEO Specialist',// Here Add Company Name
