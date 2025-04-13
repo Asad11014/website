@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Asad Rizvi. I’m a graduate from the University of Birmingham, class of 2024. I'm most passionate about building useful tools, and my goal is to pursue this passion within the field of software engineering. I love learning about new software and getting creative with their capabilities. In my free time I watch the football or browse github for cool looking repos.",
-  resume: require("../editable-stuff/Resume(7-4-2025).pdf"),
+  resume: require("../editable-stuff/React-resume-(13-04-2024).pdf"),
 };
 
 // PROJECTS SECTION
